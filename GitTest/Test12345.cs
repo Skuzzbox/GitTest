@@ -8,5 +8,9 @@ namespace GitTest
 {
     class Test12345
     {
+        public Test12345()
+        {
+            var foo = string.Empty;
+        }
     }
 }
